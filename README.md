@@ -53,9 +53,11 @@
 
 ## 📈 Contribution Graph
 
+## 📅 Contribution Calendar
+
 <p align="center">
 
-<img width="95%" src="https://ghchart.rshah.org/adityarajadn" />
+<img width="95%" src="https://ghchart.rshah.org/409ba5/adityarajadn" />
 
 </p>
 
