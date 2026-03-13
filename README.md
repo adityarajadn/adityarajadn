@@ -1,16 +1,73 @@
-## Hi there 👋
+# 👋 Hi, I'm Raja
 
-<!--
-**adityarajadn/adityarajadn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 **2D Game Developer**
+🧠 Interested in **Unity & Godot Engine**
+💡 Passionate about **game mechanics, gameplay systems, and indie games**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🕹️ Game Development Engines
+
+![Unity](https://img.shields.io/badge/Unity-Game%20Engine-black?style=for-the-badge\&logo=unity)
+![Godot](https://img.shields.io/badge/Godot-Game%20Engine-blue?style=for-the-badge\&logo=godot-engine)
+
+---
+
+## 💻 Programming Languages
+
+![C#](https://img.shields.io/badge/C%23-Programming-purple?style=for-the-badge\&logo=csharp)
+![GDScript](https://img.shields.io/badge/GDScript-Godot-blue?style=for-the-badge\&logo=godot-engine)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+
+---
+
+## 🧰 Game Development Tools
+
+![Aseprite](https://img.shields.io/badge/Aseprite-Pixel%20Art-orange?style=for-the-badge)
+![Blender](https://img.shields.io/badge/Blender-3D-orange?style=for-the-badge\&logo=blender)
+![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=for-the-badge\&logo=git)
+
+---
+
+## 🎮 Current Game Projects
+
+### 👻 Horror Escape Game (Godot)
+
+A 3D horror game where the player must escape from a patrolling ghost while finding keys to unlock the central room.
+
+### 🏋️ Weight Lifting Game
+
+A physics-based mini game about lifting weights with increasing difficulty.
+
+### 🧩 Future Ideas
+
+* Roguelike dungeon game
+* Pixel platformer
+* Puzzle horror game
+
+---
+
+## 📊 GitHub Stats
+
+![Raja GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=USERNAME\&theme=tokyonight)
+
+---
+
+## 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🎯 Goals
+
+* Build multiple **2D indie games**
+* Master **Unity & Godot**
+* Release games on **Steam / itch.io**
+* Become a **professional game developer**
