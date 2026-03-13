@@ -47,6 +47,36 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityarajadn\&layout=compact\&theme=tokyonight)
 
 ---
+## 📊 Development Activity
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityarajadn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityarajadn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=adityarajadn&theme=tokyonight&hide_border=true&background=0d1117" />
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=adityarajadn&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
+
+</p>
+
 
 ## 🎯 Goals
 
