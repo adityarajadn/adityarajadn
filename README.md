@@ -24,29 +24,11 @@
 ## 🧰 Game Development Tools
 
 ![Aseprite](https://img.shields.io/badge/Aseprite-Pixel%20Art-orange?style=for-the-badge)
-![Blender](https://img.shields.io/badge/Blender-3D-orange?style=for-the-badge\&logo=blender)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=for-the-badge\&logo=git)
 
 
 ---
 
-## 📊 GitHub Stats
-
-![Raja GitHub stats](https://github-readme-stats.vercel.app/api?username=adityarajadn\&show_icons=true\&theme=tokyonight)
-
----
-
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=adityarajadn\&theme=tokyonight)
-
----
-
-## 📈 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityarajadn\&layout=compact\&theme=tokyonight)
-
----
 ## 📊 Development Activity
 
 <p align="center">
