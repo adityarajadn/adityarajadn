@@ -55,9 +55,10 @@
 
 <p align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=adityarajadn&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
+<img width="95%" src="https://ghchart.rshah.org/adityarajadn" />
 
 </p>
+
 
 
 ## 🎯 Goals
