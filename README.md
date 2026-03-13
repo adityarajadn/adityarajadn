@@ -2,7 +2,7 @@
 
 🎮 **2D Game Developer**
 🧠 Unity & Godot Engine
-💡 Gameplay systems • Game mechanics • Indie games
+💡 Passionate about **game mechanics, gameplay systems, and indie games**
 
 ---
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 📊 Dev Dashboard
+# 📊 Development Dashboard
 
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adityarajadn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
@@ -27,7 +27,7 @@
 
 <p align="center">
 <img width="48%" src="https://streak-stats.demolab.com?user=adityarajadn&theme=tokyonight&hide_border=true&background=0d1117"/>
-<img width="48%" src="https://ghchart.rshah.org/00ff00/adityarajadn"/>
+<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=adityarajadn&theme=github&hide_border=true&days=30"/>
 </p>
 
 ---
@@ -37,3 +37,4 @@
 🎮 Build multiple **2D indie games**
 🧠 Master **Unity & Godot**
 🚀 Release games on **Steam / itch.io**
+🌍 Become a **professional game developer**
